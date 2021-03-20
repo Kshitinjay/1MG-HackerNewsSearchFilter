@@ -3,8 +3,11 @@ import "./navbar.css";
 const Navbar = () => {
   return (
     <div className="navbar">
-      <div id="logo">
-        <p>H</p>
+      <div id="logo-container">
+        <div id="logo">
+          <p>H</p>
+        </div>
+        <span>Search Hacker news</span>
       </div>
       <div id="search-bar">
         <input
@@ -14,7 +17,7 @@ const Navbar = () => {
         />
       </div>
       <div>
-        <h1>Navbar</h1>
+        <p>Settings</p>
       </div>
     </div>
   );
