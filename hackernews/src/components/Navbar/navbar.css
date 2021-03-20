@@ -43,6 +43,7 @@ input {
   height: 2rem;
   border: none;
   padding: 2px 10px;
+  font-size: 1.1rem;
 }
 @media (max-width: 520px) {
   #logo-text1, #logo-text {
