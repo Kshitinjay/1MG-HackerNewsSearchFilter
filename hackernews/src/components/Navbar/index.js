@@ -7,7 +7,7 @@ const Navbar = () => {
         <div id="logo">
           <p>H</p>
         </div>
-        <span>Search Hacker news</span>
+        <span id="logo-text">Search Hacker<br/>news</span>
       </div>
       <div id="search-bar">
         <input
