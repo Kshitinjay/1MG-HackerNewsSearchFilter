@@ -7,7 +7,11 @@ const Navbar = () => {
         <div id="logo">
           <p>H</p>
         </div>
-        <span id="logo-text">Search Hacker<br/>news</span>
+        <span id="logo-text1">
+          Search Hacker
+          <br />
+          news
+        </span>
       </div>
       <div id="search-bar">
         <input
@@ -16,8 +20,13 @@ const Navbar = () => {
           placeholder="Search stories by title, url or author"
         />
       </div>
-      <div>
-        <p>Settings</p>
+      <div id="logo-container">
+        <div>
+          <img src="https://img.icons8.com/metro/26/000000/settings.png" />
+        </div>
+        <div>
+          <span id="logo-text">Settings</span>
+        </div>
       </div>
     </div>
   );
