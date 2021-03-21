@@ -13,6 +13,7 @@
   align-items: center;
 }
 #logo-text1 {
+  text-align: left;
   font-size: 1rem;
   font-weight: 600;
 }

@@ -1,27 +1,27 @@
 import React from "react";
 import "./filter.css";
-const Filter = () => {
+const Filter = ({search,by,tim,handleSearchOption,handleByOption,handleTimeOption}) => {
   return (
     <div className="filter-container">
       <span>Search</span>
-      <select>
+      <select value={search} onChange={(e)=> handleSearchOption(e)}>
         <option value="all">All</option>
-        <option value="stories">Stories</option>
-        <option value="comments">Comments</option>
+        <option value="story">Stories</option>
+        <option value="comment">Comments</option>
       </select>
       <span>by</span>
-      <select>
+      <select value={by} onChange={(e)=> handleByOption(e)}>
         <option value="popularity">Popularity</option>
         <option value="date">Date</option>
       </select>
       <span>for</span>
-      <select>
-        <option value="">All time</option>
-        <option value="">Last 24h</option>
-        <option value="">Past Week</option>
-        <option value="">Past Month</option>
-        <option value="">Past Year</option>
-        <option value="">Custom Range</option>
+      <select value={tim} onChange={(e)=> handleTimeOption(e)}>
+        <option value="allTime">All time</option>
+        <option value="24hr">Last 24h</option>
+        <option value="week">Past Week</option>
+        <option value="month">Past Month</option>
+        <option value="year">Past Year</option>
+        <option value="range">Custom Range</option>
       </select>
     </div>
   );

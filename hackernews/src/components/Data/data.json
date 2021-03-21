@@ -1,0 +1,865 @@
+// [
+//         {
+//             "created_at": "2020-09-17T16:02:59.000Z",
+//             "title": "Tell HN: Never search for domains on Godaddy.com",
+//             "url": null,
+//             "author": "wasteme",
+//             "points": 1656,
+//             "story_text": "searched a few days ago for felons.io,\nlooked for unique names for simple game\ndidn\u0026#x27;t know if I wanted it or not\u003cp\u003eguess godaddy decided for me:\n1 days old\nCreated on 2020-09-16\nby GoDaddy.com, LLC\u003cp\u003ejust a warning if you have a special name do not use godaddy to check if its available",
+//             "comment_text": null,
+//             "num_comments": 730,
+//             "story_id": null,
+//             "story_title": null,
+//             "story_url": null,
+//             "parent_id": null,
+//             "created_at_i": 1600358579,
+//             "_tags": [
+//                 "story",
+//                 "author_wasteme",
+//                 "story_24506303"
+//             ],
+//             "objectID": "24506303",
+//             "_highlightResult": {
+//                 "title": {
+//                     "value": "Tell HN: Never \u003cem\u003esearch\u003c/em\u003e for domains on Godaddy.com",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "author": {
+//                     "value": "wasteme",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 },
+//                 "story_text": {
+//                     "value": "searched a few days ago for felons.io,\nlooked for unique names for simple game\ndidn't know if I wanted it or not\u003cp\u003eguess godaddy decided for me:\n1 days old\nCreated on 2020-09-16\nby GoDaddy.com, LLC\u003cp\u003ejust a warning if you have a special name do not use godaddy to check if its available",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 }
+//             }
+//         },
+//         {
+//             "created_at": "2020-05-27T13:21:56.000Z",
+//             "title": "Google no longer providing original URL in AMP for image search results",
+//             "url": "https://twitter.com/zenexer/status/1265633022709301249",
+//             "author": "zenexer",
+//             "points": 1375,
+//             "story_text": null,
+//             "comment_text": null,
+//             "num_comments": 542,
+//             "story_id": null,
+//             "story_title": null,
+//             "story_url": null,
+//             "parent_id": null,
+//             "created_at_i": 1590585716,
+//             "_tags": [
+//                 "story",
+//                 "author_zenexer",
+//                 "story_23322730"
+//             ],
+//             "objectID": "23322730",
+//             "_highlightResult": {
+//                 "title": {
+//                     "value": "Google no longer providing original URL in AMP for image \u003cem\u003esearch\u003c/em\u003e results",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "url": {
+//                     "value": "https://twitter.com/zenexer/status/1265633022709301249",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 },
+//                 "author": {
+//                     "value": "zenexer",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 }
+//             }
+//         },
+//         {
+//             "created_at": "2017-01-18T03:01:20.000Z",
+//             "title": "Show HN: Privacy-focused, ad-free, non-tracking torrent search engine",
+//             "url": "https://www.skytorrents.in",
+//             "author": "kasumis_",
+//             "points": 1183,
+//             "story_text": null,
+//             "comment_text": null,
+//             "num_comments": 346,
+//             "story_id": null,
+//             "story_title": null,
+//             "story_url": null,
+//             "parent_id": null,
+//             "created_at_i": 1484708480,
+//             "relevancy_score": 7205,
+//             "_tags": [
+//                 "story",
+//                 "author_kasumis_",
+//                 "story_13423629",
+//                 "show_hn"
+//             ],
+//             "objectID": "13423629",
+//             "_highlightResult": {
+//                 "title": {
+//                     "value": "Show HN: Privacy-focused, ad-free, non-tracking torrent \u003cem\u003esearch\u003c/em\u003e engine",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "url": {
+//                     "value": "https://www.skytorrents.in",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 },
+//                 "author": {
+//                     "value": "kasumis_",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 }
+//             }
+//         },
+//         {
+//             "created_at": "2018-09-05T16:13:24.000Z",
+//             "title": "Google Dataset Search",
+//             "url": "https://toolbox.google.com/datasetsearch",
+//             "author": "kmax12",
+//             "points": 1035,
+//             "story_text": null,
+//             "comment_text": null,
+//             "num_comments": 76,
+//             "story_id": null,
+//             "story_title": null,
+//             "story_url": null,
+//             "parent_id": null,
+//             "created_at_i": 1536164004,
+//             "relevancy_score": 8347,
+//             "_tags": [
+//                 "story",
+//                 "author_kmax12",
+//                 "story_17919297"
+//             ],
+//             "objectID": "17919297",
+//             "_highlightResult": {
+//                 "title": {
+//                     "value": "Google Dataset \u003cem\u003eSearch\u003c/em\u003e",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "url": {
+//                     "value": "https://toolbox.google.com/datasetsearch",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 },
+//                 "author": {
+//                     "value": "kmax12",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 }
+//             }
+//         },
+//         {
+//             "created_at": "2019-11-24T18:38:21.000Z",
+//             "title": "Tell HN: Google should drop Quora from search results",
+//             "url": null,
+//             "author": "babuskov",
+//             "points": 1007,
+//             "story_text": "Finding answers to basically any question is now behind a walled garden that requires that you create an account.\u003cp\u003eThis is the exact thing expertsexchange did before StackOverflow came and ate their lunch.\u003cp\u003eWhat do you think about it?",
+//             "comment_text": null,
+//             "num_comments": 346,
+//             "story_id": null,
+//             "story_title": null,
+//             "story_url": null,
+//             "parent_id": null,
+//             "created_at_i": 1574620701,
+//             "_tags": [
+//                 "story",
+//                 "author_babuskov",
+//                 "story_21622322"
+//             ],
+//             "objectID": "21622322",
+//             "_highlightResult": {
+//                 "title": {
+//                     "value": "Tell HN: Google should drop Quora from \u003cem\u003esearch\u003c/em\u003e results",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "author": {
+//                     "value": "babuskov",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 },
+//                 "story_text": {
+//                     "value": "Finding answers to basically any question is now behind a walled garden that requires that you create an account.\u003cp\u003eThis is the exact thing expertsexchange did before StackOverflow came and ate their lunch.\u003cp\u003eWhat do you think about it?",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 }
+//             }
+//         },
+//         {
+//             "created_at": "2018-09-11T12:31:23.000Z",
+//             "title": "Amazon is stuffing its search results pages with ads",
+//             "url": "https://www.recode.net/2018/9/10/17797720/amazon-is-stuffing-its-search-results-pages-with-ads",
+//             "author": "doener",
+//             "points": 944,
+//             "story_text": null,
+//             "comment_text": null,
+//             "num_comments": 545,
+//             "story_id": null,
+//             "story_title": null,
+//             "story_url": null,
+//             "parent_id": null,
+//             "created_at_i": 1536669083,
+//             "relevancy_score": 8361,
+//             "_tags": [
+//                 "story",
+//                 "author_doener",
+//                 "story_17959085"
+//             ],
+//             "objectID": "17959085",
+//             "_highlightResult": {
+//                 "title": {
+//                     "value": "Amazon is stuffing its \u003cem\u003esearch\u003c/em\u003e results pages with ads",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "url": {
+//                     "value": "https://www.recode.net/2018/9/10/17797720/amazon-is-stuffing-its-\u003cem\u003esearch\u003c/em\u003e-results-pages-with-ads",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "author": {
+//                     "value": "doener",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 }
+//             }
+//         },
+//         {
+//             "created_at": "2019-03-13T15:19:18.000Z",
+//             "title": "Google has added DuckDuckGo as a search engine option for Chrome users",
+//             "url": "https://techcrunch.com/2019/03/13/google-has-quietly-added-duckduckgo-as-a-search-engine-option-for-chrome-users-in-60-markets/",
+//             "author": "jmsflknr",
+//             "points": 932,
+//             "story_text": null,
+//             "comment_text": null,
+//             "num_comments": 293,
+//             "story_id": null,
+//             "story_title": null,
+//             "story_url": null,
+//             "parent_id": null,
+//             "created_at_i": 1552490358,
+//             "relevancy_score": 8710,
+//             "_tags": [
+//                 "story",
+//                 "author_jmsflknr",
+//                 "story_19379509"
+//             ],
+//             "objectID": "19379509",
+//             "_highlightResult": {
+//                 "title": {
+//                     "value": "Google has added DuckDuckGo as a \u003cem\u003esearch\u003c/em\u003e engine option for Chrome users",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "url": {
+//                     "value": "https://techcrunch.com/2019/03/13/google-has-quietly-added-duckduckgo-as-a-\u003cem\u003esearch\u003c/em\u003e-engine-option-for-chrome-users-in-60-markets/",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "author": {
+//                     "value": "jmsflknr",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 }
+//             }
+//         },
+//         {
+//             "created_at": "2021-03-03T14:33:06.000Z",
+//             "title": "Brave buys a search engine, promises no tracking, no profiling",
+//             "url": "https://www.theregister.com/2021/03/03/brave_buys_a_search_engine/",
+//             "author": "samizdis",
+//             "points": 931,
+//             "story_text": null,
+//             "comment_text": null,
+//             "num_comments": 411,
+//             "story_id": null,
+//             "story_title": null,
+//             "story_url": null,
+//             "parent_id": null,
+//             "created_at_i": 1614781986,
+//             "_tags": [
+//                 "story",
+//                 "author_samizdis",
+//                 "story_26328758"
+//             ],
+//             "objectID": "26328758",
+//             "_highlightResult": {
+//                 "title": {
+//                     "value": "Brave buys a \u003cem\u003esearch\u003c/em\u003e engine, promises no tracking, no profiling",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "url": {
+//                     "value": "https://www.theregister.com/2021/03/03/brave_buys_a_\u003cem\u003esearch\u003c/em\u003e_engine/",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "author": {
+//                     "value": "samizdis",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 }
+//             }
+//         },
+//         {
+//             "created_at": "2019-10-01T07:21:43.000Z",
+//             "title": "Boris Johnson uses search terms in interviews to hide negative articles?",
+//             "url": "https://twitter.com/TheAndyMaturin/status/1178303707357892608",
+//             "author": "pflenker",
+//             "points": 918,
+//             "story_text": null,
+//             "comment_text": null,
+//             "num_comments": 280,
+//             "story_id": null,
+//             "story_title": null,
+//             "story_url": null,
+//             "parent_id": null,
+//             "created_at_i": 1569914503,
+//             "_tags": [
+//                 "story",
+//                 "author_pflenker",
+//                 "story_21122806"
+//             ],
+//             "objectID": "21122806",
+//             "_highlightResult": {
+//                 "title": {
+//                     "value": "Boris Johnson uses \u003cem\u003esearch\u003c/em\u003e terms in interviews to hide negative articles?",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "url": {
+//                     "value": "https://twitter.com/TheAndyMaturin/status/1178303707357892608",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 },
+//                 "author": {
+//                     "value": "pflenker",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 }
+//             }
+//         },
+//         {
+//             "created_at": "2019-04-26T14:52:08.000Z",
+//             "title": "TurboTax Hides Its Free File Page from Search Engines",
+//             "url": "https://www.propublica.org/article/turbotax-deliberately-hides-its-free-file-page-from-search-engines",
+//             "author": "danso",
+//             "points": 881,
+//             "story_text": null,
+//             "comment_text": null,
+//             "num_comments": 262,
+//             "story_id": null,
+//             "story_title": null,
+//             "story_url": null,
+//             "parent_id": null,
+//             "created_at_i": 1556290328,
+//             "relevancy_score": 8791,
+//             "_tags": [
+//                 "story",
+//                 "author_danso",
+//                 "story_19758126"
+//             ],
+//             "objectID": "19758126",
+//             "_highlightResult": {
+//                 "title": {
+//                     "value": "TurboTax Hides Its Free File Page from \u003cem\u003eSearch\u003c/em\u003e Engines",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "url": {
+//                     "value": "https://www.propublica.org/article/turbotax-deliberately-hides-its-free-file-page-from-\u003cem\u003esearch\u003c/em\u003e-engines",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "author": {
+//                     "value": "danso",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 }
+//             }
+//         },
+//         {
+//             "created_at": "2017-02-15T09:42:25.000Z",
+//             "title": "GitHub commit search: “remove password”",
+//             "url": "https://github.com/search?utf8=%E2%9C%93\u0026q=remove+password\u0026type=Commits\u0026ref=searchresults",
+//             "author": "rsc-dev",
+//             "points": 861,
+//             "story_text": null,
+//             "comment_text": null,
+//             "num_comments": 257,
+//             "story_id": null,
+//             "story_title": null,
+//             "story_url": null,
+//             "parent_id": null,
+//             "created_at_i": 1487151745,
+//             "relevancy_score": 7259,
+//             "_tags": [
+//                 "story",
+//                 "author_rsc-dev",
+//                 "story_13650818"
+//             ],
+//             "objectID": "13650818",
+//             "_highlightResult": {
+//                 "title": {
+//                     "value": "GitHub commit \u003cem\u003esearch\u003c/em\u003e: “remove password”",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "url": {
+//                     "value": "https://github.com/\u003cem\u003esearch\u003c/em\u003e?utf8=%E2%9C%93\u0026q=remove+password\u0026type=Commits\u0026ref=searchresults",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "author": {
+//                     "value": "rsc-dev",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 }
+//             }
+//         },
+//         {
+//             "created_at": "2019-07-15T12:21:07.000Z",
+//             "title": "To Break Google’s Monopoly on Search, Make Its Index Public",
+//             "url": "https://www.bloomberg.com/news/articles/2019-07-15/to-break-google-s-monopoly-on-search-make-its-index-public",
+//             "author": "JumpCrisscross",
+//             "points": 859,
+//             "story_text": null,
+//             "comment_text": null,
+//             "num_comments": 597,
+//             "story_id": null,
+//             "story_title": null,
+//             "story_url": null,
+//             "parent_id": null,
+//             "created_at_i": 1563193267,
+//             "relevancy_score": 8952,
+//             "_tags": [
+//                 "story",
+//                 "author_JumpCrisscross",
+//                 "story_20440079"
+//             ],
+//             "objectID": "20440079",
+//             "_highlightResult": {
+//                 "title": {
+//                     "value": "To Break Google’s Monopoly on \u003cem\u003eSearch\u003c/em\u003e, Make Its Index Public",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "url": {
+//                     "value": "https://www.bloomberg.com/news/articles/2019-07-15/to-break-google-s-monopoly-on-\u003cem\u003esearch\u003c/em\u003e-make-its-index-public",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "author": {
+//                     "value": "JumpCrisscross",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 }
+//             }
+//         },
+//         {
+//             "created_at": "2019-12-01T16:41:58.000Z",
+//             "title": "The world needs more search engines",
+//             "url": "https://www.0x65.dev/blog/2019-12-01/the-world-needs-cliqz-the-world-needs-more-search-engines.html",
+//             "author": "kkm",
+//             "points": 795,
+//             "story_text": null,
+//             "comment_text": null,
+//             "num_comments": 519,
+//             "story_id": null,
+//             "story_title": null,
+//             "story_url": null,
+//             "parent_id": null,
+//             "created_at_i": 1575218518,
+//             "_tags": [
+//                 "story",
+//                 "author_kkm",
+//                 "story_21676252"
+//             ],
+//             "objectID": "21676252",
+//             "_highlightResult": {
+//                 "title": {
+//                     "value": "The world needs more \u003cem\u003esearch\u003c/em\u003e engines",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "url": {
+//                     "value": "https://www.0x65.dev/blog/2019-12-01/the-world-needs-cliqz-the-world-needs-more-\u003cem\u003esearch\u003c/em\u003e-engines.html",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "author": {
+//                     "value": "kkm",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 }
+//             }
+//         },
+//         {
+//             "created_at": "2019-08-12T16:10:48.000Z",
+//             "title": "Why has examine.com disappeared from search results?",
+//             "url": "https://examine.com/nutrition/google-update-july-2019/",
+//             "author": "cyrusshepard",
+//             "points": 750,
+//             "story_text": null,
+//             "comment_text": null,
+//             "num_comments": 353,
+//             "story_id": null,
+//             "story_title": null,
+//             "story_url": null,
+//             "parent_id": null,
+//             "created_at_i": 1565626248,
+//             "relevancy_score": 9006,
+//             "_tags": [
+//                 "story",
+//                 "author_cyrusshepard",
+//                 "story_20676755"
+//             ],
+//             "objectID": "20676755",
+//             "_highlightResult": {
+//                 "title": {
+//                     "value": "Why has examine.com disappeared from \u003cem\u003esearch\u003c/em\u003e results?",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "url": {
+//                     "value": "https://examine.com/nutrition/google-update-july-2019/",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 },
+//                 "author": {
+//                     "value": "cyrusshepard",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 }
+//             }
+//         },
+//         {
+//             "created_at": "2016-09-23T13:33:34.000Z",
+//             "title": "Ripgrep – A new command line search tool",
+//             "url": "http://blog.burntsushi.net/ripgrep/",
+//             "author": "anp",
+//             "points": 740,
+//             "story_text": null,
+//             "comment_text": null,
+//             "num_comments": 209,
+//             "story_id": null,
+//             "story_title": null,
+//             "story_url": null,
+//             "parent_id": null,
+//             "created_at_i": 1474637614,
+//             "relevancy_score": 6976,
+//             "_tags": [
+//                 "story",
+//                 "author_anp",
+//                 "story_12564442"
+//             ],
+//             "objectID": "12564442",
+//             "_highlightResult": {
+//                 "title": {
+//                     "value": "Ripgrep – A new command line \u003cem\u003esearch\u003c/em\u003e tool",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "url": {
+//                     "value": "http://blog.burntsushi.net/ripgrep/",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 },
+//                 "author": {
+//                     "value": "anp",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 }
+//             }
+//         },
+//         {
+//             "created_at": "2018-01-23T13:11:43.000Z",
+//             "title": "DuckDuckGo moves beyond search to also protect you while browsing",
+//             "url": "https://spreadprivacy.com/privacy-simplified/",
+//             "author": "brisance",
+//             "points": 727,
+//             "story_text": null,
+//             "comment_text": null,
+//             "num_comments": 322,
+//             "story_id": null,
+//             "story_title": null,
+//             "story_url": null,
+//             "parent_id": null,
+//             "created_at_i": 1516713103,
+//             "relevancy_score": 7917,
+//             "_tags": [
+//                 "story",
+//                 "author_brisance",
+//                 "story_16213280"
+//             ],
+//             "objectID": "16213280",
+//             "_highlightResult": {
+//                 "title": {
+//                     "value": "DuckDuckGo moves beyond \u003cem\u003esearch\u003c/em\u003e to also protect you while browsing",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "url": {
+//                     "value": "https://spreadprivacy.com/privacy-simplified/",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 },
+//                 "author": {
+//                     "value": "brisance",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 }
+//             }
+//         },
+//         {
+//             "created_at": "2020-12-25T19:52:25.000Z",
+//             "title": "Ask HN: Why does Pinterest dominate Google text search results?",
+//             "url": null,
+//             "author": "Winterflow3r",
+//             "points": 689,
+//             "story_text": "More and more often when I search (using text queries, not image search, which I know has been polluted by Pinterest for years), I get pages upon pages of Pinterest results, sometimes the same Pinterest page but from the different pinterest country domains like pinterest.fi for Finland and pinterest.se for Sweden. Does anyone know if Google gives Pinterest preferential treatement in SEO rankings?\u003cp\u003eEdit: A few comments were asking what my queries were to generate search results where Pinterest dominates, so clarifying that a bit. I run a site that has a colour search engine for lipsticks and since Google is one of the dominant ways in which people land on my site (searching for things like \u0026quot;nyx budapest lipstick dupes\u0026quot;), I was studying various makeup related queries to see which sites ranked highest .\u003cp\u003eEdit2: Edited the title for clarity - I mean text search, not image search",
+//             "comment_text": null,
+//             "num_comments": 312,
+//             "story_id": null,
+//             "story_title": null,
+//             "story_url": null,
+//             "parent_id": null,
+//             "created_at_i": 1608925945,
+//             "_tags": [
+//                 "story",
+//                 "author_Winterflow3r",
+//                 "story_25538586",
+//                 "ask_hn"
+//             ],
+//             "objectID": "25538586",
+//             "_highlightResult": {
+//                 "title": {
+//                     "value": "Ask HN: Why does Pinterest dominate Google text \u003cem\u003esearch\u003c/em\u003e results?",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "author": {
+//                     "value": "Winterflow3r",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 },
+//                 "story_text": {
+//                     "value": "More and more often when I \u003cem\u003esearch\u003c/em\u003e (using text queries, not image \u003cem\u003esearch\u003c/em\u003e, which I know has been polluted by Pinterest for years), I get pages upon pages of Pinterest results, sometimes the same Pinterest page but from the different pinterest country domains like pinterest.fi for Finland and pinterest.se for Sweden. Does anyone know if Google gives Pinterest preferential treatement in SEO rankings?\u003cp\u003eEdit: A few comments were asking what my queries were to generate \u003cem\u003esearch\u003c/em\u003e results where Pinterest dominates, so clarifying that a bit. I run a site that has a colour \u003cem\u003esearch\u003c/em\u003e engine for lipsticks and since Google is one of the dominant ways in which people land on my site (searching for things like \u0026quot;nyx budapest lipstick dupes\u0026quot;), I was studying various makeup related queries to see which sites ranked highest .\u003cp\u003eEdit2: Edited the title for clarity - I mean text \u003cem\u003esearch\u003c/em\u003e, not image \u003cem\u003esearch\u003c/em\u003e",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 }
+//             }
+//         },
+//         {
+//             "created_at": "2011-02-01T14:00:24.000Z",
+//             "title": "Google: Bing Is Cheating, Copying Our Search Results",
+//             "url": "http://searchengineland.com/google-bing-is-cheating-copying-our-search-results-62914",
+//             "author": "illdave",
+//             "points": 684,
+//             "story_text": null,
+//             "comment_text": null,
+//             "num_comments": 272,
+//             "story_id": null,
+//             "story_title": null,
+//             "story_url": null,
+//             "parent_id": null,
+//             "created_at_i": 1296568824,
+//             "relevancy_score": 3025,
+//             "_tags": [
+//                 "story",
+//                 "author_illdave",
+//                 "story_2165469"
+//             ],
+//             "objectID": "2165469",
+//             "_highlightResult": {
+//                 "title": {
+//                     "value": "Google: Bing Is Cheating, Copying Our \u003cem\u003eSearch\u003c/em\u003e Results",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "url": {
+//                     "value": "http://searchengineland.com/google-bing-is-cheating-copying-our-\u003cem\u003esearch\u003c/em\u003e-results-62914",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "author": {
+//                     "value": "illdave",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 }
+//             }
+//         },
+//         {
+//             "created_at": "2020-12-02T15:38:38.000Z",
+//             "title": "Rga: Ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz",
+//             "url": "https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg/",
+//             "author": "angrygoat",
+//             "points": 684,
+//             "story_text": null,
+//             "comment_text": null,
+//             "num_comments": 139,
+//             "story_id": null,
+//             "story_title": null,
+//             "story_url": null,
+//             "parent_id": null,
+//             "created_at_i": 1606923518,
+//             "_tags": [
+//                 "story",
+//                 "author_angrygoat",
+//                 "story_25277280"
+//             ],
+//             "objectID": "25277280",
+//             "_highlightResult": {
+//                 "title": {
+//                     "value": "Rga: Ripgrep, but also \u003cem\u003esearch\u003c/em\u003e in PDFs, E-Books, Office documents, zip, tar.gz",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "url": {
+//                     "value": "https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg/",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 },
+//                 "author": {
+//                     "value": "angrygoat",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 }
+//             }
+//         },
+//         {
+//             "created_at": "2019-11-02T12:15:13.000Z",
+//             "title": "Google are removing URLs entirely from search results?",
+//             "url": "https://www.reddit.com/r/bigseo/comments/def9gg/google_are_removing_urls_entirely_from_the_search/",
+//             "author": "monort",
+//             "points": 665,
+//             "story_text": null,
+//             "comment_text": null,
+//             "num_comments": 323,
+//             "story_id": null,
+//             "story_title": null,
+//             "story_url": null,
+//             "parent_id": null,
+//             "created_at_i": 1572696913,
+//             "_tags": [
+//                 "story",
+//                 "author_monort",
+//                 "story_21427217"
+//             ],
+//             "objectID": "21427217",
+//             "_highlightResult": {
+//                 "title": {
+//                     "value": "Google are removing URLs entirely from \u003cem\u003esearch\u003c/em\u003e results?",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "url": {
+//                     "value": "https://www.reddit.com/r/bigseo/comments/def9gg/google_are_removing_urls_entirely_from_the_\u003cem\u003esearch\u003c/em\u003e/",
+//                     "matchLevel": "full",
+//                     "fullyHighlighted": false,
+//                     "matchedWords": [
+//                         "search"
+//                     ]
+//                 },
+//                 "author": {
+//                     "value": "monort",
+//                     "matchLevel": "none",
+//                     "matchedWords": []
+//                 }
+//             }
+//         }
+//     ]
